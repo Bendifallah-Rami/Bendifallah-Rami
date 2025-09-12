@@ -28,9 +28,10 @@ const rami = {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express" alt="Frontend & Backend Technologies" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,vscode,vercel,tailwind,figma" alt="Tools & Databases" />
+  <img src="https://skillicons.dev/icons?i=reactnative,java,c,npm,powershell,postman,mongodb,postgres" alt="Mobile, Languages & Tools" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,tailwind,figma" alt="Development Tools" />
 </div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
