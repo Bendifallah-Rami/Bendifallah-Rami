@@ -24,7 +24,7 @@ const rami = {
 
 ---
 
-💼 Tech Toolbox
+## 💼 Tech Toolbox
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,reactnative,java,c,npm,powershell,postman,mongodb,postgres,git,github,vscode,vercel,tailwind,figma" alt="My Tech Stack" />
 </div>
