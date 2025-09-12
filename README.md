@@ -7,8 +7,8 @@ const rami = {
     location: "Algeria 🇩🇿",
     education: "ESI Algiers",
     focus: "Full-Stack Development & Backend Architecture",
-    currentlyLearning: ["Advanced React Patterns", "Microservices", "DevOps"],
-    askMeAbout: ["JavaScript", "React", "Node.js", "Full-Stack Development"]
+    currentlyLearning: ["Advanced React Patterns", "Backend Architectures", "web devlopment"],
+    askMeAbout: ["JavaScript", "React", "Node.js", "Full-Stack Development","next js"]
 };
 ```
 
@@ -16,9 +16,9 @@ const rami = {
 
 ## 🧑‍💻 About Me
 
-🎯 Currently working on **ESI Flow Platform** - Equipment and intervention management system  
+🎯 Currently working on **quiz mangment system** - Equipment and intervention management system  
 🌱 Exploring **Modern Web Technologies**, **Backend Architecture**, and **Clean Code Principles**  
-💼 Logistics Management & Full-Stack Development Enthusiast  
+💼 Web Master at CSE CLUB & Full-Stack Development Enthusiast  
 🔧 I enjoy building scalable applications with **React**, **Node.js**, **Next.js**, and more  
 🏆 I've contributed to web applications, management systems, and academic projects  
 
