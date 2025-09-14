@@ -51,7 +51,7 @@ const rami = {
 - 🔗 [Frontend Repo](https://github.com/Bendifallah-Rami/esi_flow_front) | [Backend Repo](https://github.com/Bendifallah-Rami/esi_flow_back)
 
 ### 🍕 Food Delivery App
-**Full-Stack Application** - Modern restaurant manamgment service with responsive design
+**Full-Stack Application** - Modern restaurant managment service with responsive design
 - **Tech Stack:** Next.js, Tailwind CSS, Node.js, express.js
 - **Features:**  order management, customer reviews, stock and staff managment
 - 🔗 [Frontend Repo](https://github.com/Bendifallah-Rami/food-delivery) | [Backend Repo](https://github.com/Bendifallah-Rami/food-delivery-back)
