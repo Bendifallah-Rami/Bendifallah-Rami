@@ -28,9 +28,10 @@ const rami = {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,reactnative,java,c,npm,powershell,postman,mongodb,postgres,git,github,vscode,vercel,tailwind,figma" alt="My Tech Stack" />
 </div>
+---
 
-## 📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bendifallah-Rami&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bendifallah-Rami&layout=compact&langs_count=8&theme=tokyonight"/> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bendifallah-Rami&theme=tokyo-night&hide_border=true" /> </div>
+## 📊 GitHub Stats 
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bendifallah-Rami&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bendifallah-Rami&layout=compact&langs_count=8&theme=tokyonight"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bendifallah-Rami&theme=tokyonight" alt="Rami's GitHub Streak" /> </div>
 ---
 
 ## 🚀 Featured Projects
