@@ -7,8 +7,8 @@ const rami = {
     location: "Algeria 🇩🇿",
     education: "ESI Algiers",
     focus: "Full-Stack Development & Backend Architecture",
-    currentlyLearning: ["Advanced React Patterns", "Backend Architectures", "web devlopment"],
-    askMeAbout: ["JavaScript", "React", "Node.js", "Full-Stack Development","next.js", "express.js"]
+    currentlyLearning: ["Advanced React Patterns", "Backend Architectures", "Web Development"],
+    askMeAbout: ["JavaScript", "React", "Node.js", "Full-Stack Development", "Next.js", "Express.js", "Nest.js"]
 };
 ```
 
@@ -16,37 +16,45 @@ const rami = {
 
 ## 🧑‍💻 About Me
 
-🎯 Currently working on **quiz mangment system** - Equipment and intervention management system  
+🎯 Currently working on **quiz management system** - Equipment and intervention management system  
 🌱 Exploring **Modern Web Technologies**, **Backend Architecture**, and **Clean Code Principles**  
 💼 Web Master at CSE CLUB & Full-Stack Development Enthusiast  
-🔧 I enjoy building scalable applications with **next.js**, **Node.js**, **express.js**, and more  
+🔧 I enjoy building scalable applications with **Next.js**, **Node.js**, **Express.js**, **Nest.js**, and more  
 🏆 I've contributed to web applications, management systems, and academic projects  
 
 ---
 
 ## 💼 Tech Toolbox
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,reactnative,java,c,npm,powershell,postman,mongodb,postgres,git,github,vscode,vercel,tailwind,figma" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,nestjs,java,c,npm,powershell,postman,mongodb,postgres,git,github,vscode,vercel,tailwind,figma" alt="My Tech Stack" />
 </div>
+
 ---
 
 ## 📊 GitHub Stats 
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bendifallah-Rami&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bendifallah-Rami&layout=compact&langs_count=8&theme=tokyonight"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bendifallah-Rami&theme=tokyonight" alt="Rami's GitHub Streak" /> </div>
----
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bendifallah-Rami&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bendifallah-Rami&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bendifallah-Rami&theme=tokyonight" alt="Rami's GitHub Streak" />
+</div>
+
+---
 
 ## 🚀 Featured Projects
 
 ### 🏢 ESI Flow Platform
 **Frontend & Backend** - Equipment and intervention management system for ESI
-- **Tech Stack:** next.js, JavaScript, Node.js, express.js, Postgresql
+- **Tech Stack:** Next.js, JavaScript, Node.js, Express.js, PostgreSQL
 - **Features:** Equipment tracking, task management, user authentication
 - 🔗 [Frontend Repo](https://github.com/Bendifallah-Rami/esi_flow_front) | [Backend Repo](https://github.com/Bendifallah-Rami/esi_flow_back)
 
 ### 🍕 Food Delivery App
-**Full-Stack Application** - Modern restaurant managment service with responsive design
-- **Tech Stack:** Next.js, Tailwind CSS, Node.js, express.js
-- **Features:**  order management, customer reviews, stock and staff managment
+**Full-Stack Application** - Modern restaurant management service with responsive design
+- **Tech Stack:** Next.js, Tailwind CSS, Node.js, Express.js
+- **Features:** Order management, customer reviews, stock and staff management
 - 🔗 [Frontend Repo](https://github.com/Bendifallah-Rami/food-delivery) | [Backend Repo](https://github.com/Bendifallah-Rami/food-delivery-back)
 
 ### 💼 Personal Portfolio
