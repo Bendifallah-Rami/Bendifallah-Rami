@@ -40,6 +40,7 @@ const rami = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bendifallah-Rami&theme=tokyonight" alt="Rami's GitHub Streak" />
 </div>
+<p><img align="center" src="https://github-readme-stats-8irp.vercel.app/api?username=Bendifallah-Rami&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&icon_color=79ff97" alt="Bendifallah-Rami"/></p>
 
 ---
 
