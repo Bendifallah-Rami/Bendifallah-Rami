@@ -8,7 +8,7 @@ const rami = {
     education: "ESI Algiers",
     focus: "Full-Stack Development & Backend Architecture",
     currentlyLearning: ["Advanced React Patterns", "Backend Architectures", "Web Development"],
-    askMeAbout: ["JavaScript", "React", "Node.js", "Full-Stack Development", "Next.js", "Express.js", "Nest.js"]
+    askMeAbout: ["JavaScript", "React", "Node.js", "Full-Stack Development", "Next.js", "Express.js", "Nest.js","fastapi"]
 };
 ```
 
