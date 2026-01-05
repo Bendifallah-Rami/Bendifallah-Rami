@@ -16,7 +16,7 @@ const rami = {
 
 ## 🧑‍💻 About Me
 
-🎯 Currently working on **quiz management system** - Equipment and intervention management system  
+🎯 Currently working on **GYM management system** - Equipment and intervention management system  
 🌱 Exploring **Modern Web Technologies**, **Backend Architecture**, and **Clean Code Principles**  
 💼 Web Master at CSE CLUB & Full-Stack Development Enthusiast  
 🔧 I enjoy building scalable applications with **Next.js**, **Node.js**, **Express.js**, **Nest.js**, and more  
