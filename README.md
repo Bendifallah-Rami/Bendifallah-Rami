@@ -33,8 +33,8 @@ const rami = {
 
 ## 📊 GitHub Stats
 
-![status](https://github-readme-stats-gamma-eosin-50.vercel.app/api?username=Bendifallah-Rami&show_icons=true&theme=radical&cache_seconds=1800)
-![Top Langs](https://github-readme-stats-gamma-eosin-50.vercel.app/api/top-langs/?username=Bendifallah-Rami&layout=compact&theme=radical&cache_seconds=1800&langs_count=10)
+![status](https://github-readme-stats-gamma-eosin-50.vercel.app/api?username=Bendifallah-Rami&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-gamma-eosin-50.vercel.app/api/top-langs/?username=Bendifallah-Rami&layout=compact&theme=tokyonight&cache_seconds=1800&langs_count=10)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bendifallah-Rami&theme=tokyonight" />
