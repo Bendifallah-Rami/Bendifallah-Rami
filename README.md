@@ -60,7 +60,7 @@ const rami = {
 **Portfolio Website** - Showcasing my projects and skills
 - **Tech Stack:** React, Tailwind CSS
 - **Features:** Responsive design, project showcase, animations
-- 🔗 [Live Demo](https://ramiportfolio.vercel.app/) | [Source Code](https://github.com/Bendifallah-Rami/Rami-s-portfolio)
+- 🔗 [Live Demo](https://bendifallah-rami.vercel.app/) | [Source Code](https://github.com/Bendifallah-Rami/rami-portfolio-v2)
 
 ---
 
@@ -90,7 +90,7 @@ const rami = {
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://ramiportfolio.vercel.app/" target="_blank">
+  <a href="https://bendifallah-rami.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/bendifallah-rami-145a432b9/" target="_blank">
