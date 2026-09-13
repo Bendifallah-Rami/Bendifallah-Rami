@@ -64,6 +64,10 @@ const rami = {
 
 ---
 
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bendifallah-Rami&theme=tokyonight" alt="rami" />
+</div>
 ## 📈 GitHub Activity
 
 <div align="center">
