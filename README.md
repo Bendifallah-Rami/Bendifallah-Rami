@@ -68,11 +68,6 @@ const rami = {
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bendifallah-Rami&theme=tokyonight" alt="rami" />
 </div>
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bendifallah-Rami&theme=tokyo-night&hide_border=true" />
-</div>
 
 ---
 
